@@ -2,4 +2,4 @@
 
 ## Files Included
 
-* [C Certificate](./C_-_Online_Certificate_-_Prachiti.pdf)
+* [C Certificate](./C%20-%20Online%20Certificate%20-%20Prachiti.pdf)
